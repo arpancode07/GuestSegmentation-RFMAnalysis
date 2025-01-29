@@ -2,8 +2,11 @@
 
 ##Project Aim
 1.To analyze guest booking data and create a segmentation model based on factors such as guest tiers, age groups, and spending patterns.
+
 2.To visualize guest booking trends and identify high-value customers for better marketing strategies.
+
 3.To assist resort management in understanding customer preferences and optimizing services.
+
 
 ## Outcomes
 1.Guest Segmentation: Categorization of guests into different tiers (e.g., VIP Guests, Occasional Stayers, Loyal Guests, First-Time Visitors) based on booking frequency and amount spent.
